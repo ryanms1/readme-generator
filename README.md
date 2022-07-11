@@ -2,6 +2,12 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
+  
+  
+
+https://user-images.githubusercontent.com/101146873/178374876-58618372-576a-4bf5-a268-4a4a2a4f1196.mp4
+
+
 
   Generates readme.md file based off user input received from answers to questions using the inquirer package
 
